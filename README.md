@@ -32,3 +32,6 @@ FootPrinter generates two types of output **IV** . First, the Performance Report
 ## How to use
 
 This repository provides all files to run and analyse a workload using FootPrinter. [footprinter.py](footprinter.py) shows a simple example on how to get results similar to those shown in the paper.
+
+## Acknowledgements
+Footprinter has been developed in the context of the EU Horizon [Graph Massivizer]([url](https://github.com/graph-massivizer)) (g.a. 101093202)
